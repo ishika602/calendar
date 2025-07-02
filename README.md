@@ -23,7 +23,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ## Approach
 # Role-Based UI:
 
-4 themes (Blue/Pink) synced to user roles.
+2 themes (Blue/Pink) synced to user roles.
 
 Context API manages global state (active role, bookings).
 

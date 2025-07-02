@@ -59,10 +59,10 @@ Mobile-first calendar layout.
 Trade-off: Admin view has fewer columns on small screens.
 
 ## Technologies
-React.js
-Tailwind CSS 
-Framer Motion 10
-React Icons
+React.js,
+Tailwind CSS, 
+Framer Motion 10,
+React Icons.
 
 
 

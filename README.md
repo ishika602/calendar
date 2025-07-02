@@ -9,8 +9,8 @@ https://calendar-woad-three.vercel.app/
 
 ##  Setup
 1. **Clone the repo**:
-   git clone https://github.com/ishika602/calendar.git
-   cd calendar
+   1. git clone https://github.com/ishika602/calendar.git
+   2. cd calendar
 2. **Install dependencies**
    npm install
 3. **Run locally**
